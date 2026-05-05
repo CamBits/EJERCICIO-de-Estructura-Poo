@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Nitropc\\OneDrive\\Escritorio\\Unity\\Ejercicio de Estructura Poo\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8CC9576E-5FAD-DB16-385E-E32D37711B55}|Assembly-CSharp.csproj|c:\\users\\nitropc\\onedrive\\escritorio\\unity\\ejercicio de estructura poo\\assets\\scripts\\eventoclimatico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CC9576E-5FAD-DB16-385E-E32D37711B55}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\eventoclimatico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EventoClimatico.cs",
+              "DocumentMoniker": "C:\\Users\\Nitropc\\OneDrive\\Escritorio\\Unity\\Ejercicio de Estructura Poo\\Assets\\Scripts\\EventoClimatico.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EventoClimatico.cs",
+              "ToolTip": "C:\\Users\\Nitropc\\OneDrive\\Escritorio\\Unity\\Ejercicio de Estructura Poo\\Assets\\Scripts\\EventoClimatico.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EventoClimatico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T08:03:23.442Z",
+              "EditorCaption": ""
             }
           ]
         }
