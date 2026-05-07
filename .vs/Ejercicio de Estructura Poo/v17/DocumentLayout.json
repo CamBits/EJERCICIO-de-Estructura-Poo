@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{8CC9576E-5FAD-DB16-385E-E32D37711B55}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\climabicho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8CC9576E-5FAD-DB16-385E-E32D37711B55}|Assembly-CSharp.csproj|c:\\users\\nitropc\\onedrive\\escritorio\\unity\\ejercicio de estructura poo\\assets\\scripts\\estadoemocional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8CC9576E-5FAD-DB16-385E-E32D37711B55}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\estadoemocional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8CC9576E-5FAD-DB16-385E-E32D37711B55}|Assembly-CSharp.csproj|C:\\Users\\Nitropc\\OneDrive\\Escritorio\\Unity\\Ejercicio de Estructura Poo\\assets\\scripts\\eventoclimatico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CC9576E-5FAD-DB16-385E-E32D37711B55}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\eventoclimatico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8CC9576E-5FAD-DB16-385E-E32D37711B55}|Assembly-CSharp.csproj|c:\\users\\nitropc\\onedrive\\escritorio\\unity\\ejercicio de estructura poo\\assets\\scripts\\eventoclimatico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8CC9576E-5FAD-DB16-385E-E32D37711B55}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\eventoclimatico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8CC9576E-5FAD-DB16-385E-E32D37711B55}|Assembly-CSharp.csproj|C:\\Users\\Nitropc\\OneDrive\\Escritorio\\Unity\\Ejercicio de Estructura Poo\\assets\\scripts\\estadoemocional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CC9576E-5FAD-DB16-385E-E32D37711B55}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\estadoemocional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,13 +30,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "EstadoEmocional.cs",
               "DocumentMoniker": "C:\\Users\\Nitropc\\OneDrive\\Escritorio\\Unity\\Ejercicio de Estructura Poo\\Assets\\Scripts\\EstadoEmocional.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\EstadoEmocional.cs",
               "ToolTip": "C:\\Users\\Nitropc\\OneDrive\\Escritorio\\Unity\\Ejercicio de Estructura Poo\\Assets\\Scripts\\EstadoEmocional.cs",
               "RelativeToolTip": "Assets\\Scripts\\EstadoEmocional.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAABUAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwDgAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-05T06:56:10.975Z",
               "EditorCaption": ""
@@ -49,20 +49,20 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\Climabicho.cs",
               "ToolTip": "C:\\Users\\Nitropc\\OneDrive\\Escritorio\\Unity\\Ejercicio de Estructura Poo\\Assets\\Scripts\\Climabicho.cs",
               "RelativeToolTip": "Assets\\Scripts\\Climabicho.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-05T06:56:04.412Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "EventoClimatico.cs",
               "DocumentMoniker": "C:\\Users\\Nitropc\\OneDrive\\Escritorio\\Unity\\Ejercicio de Estructura Poo\\Assets\\Scripts\\EventoClimatico.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\EventoClimatico.cs",
               "ToolTip": "C:\\Users\\Nitropc\\OneDrive\\Escritorio\\Unity\\Ejercicio de Estructura Poo\\Assets\\Scripts\\EventoClimatico.cs",
               "RelativeToolTip": "Assets\\Scripts\\EventoClimatico.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-04T08:03:23.442Z",
               "EditorCaption": ""

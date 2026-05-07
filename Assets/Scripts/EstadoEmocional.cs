@@ -12,53 +12,52 @@ public class EstadoEmocional : MonoBehaviour
     //Public
    
     public string efectoVisual;
-
+    public string emocionActual;
 
     //Private
-    private string[] tipo = { "Feliz", "Triste", "Enojado", "Neutral"};
+    private string[] tipo = { "feliz", "triste", "enojado", "neutral"};
 
     private float multiplicadorPoder;
 
-   public void estadoActual()
+   public string estadoActual()
     {
         int lista = Random.Range(0, tipo.Length);
-        string emocion = tipo[lista];
+        string emocionActual = tipo[lista];
 
-        switch (emocion)
+        switch (emocionActual)
         {
 
-            case "Feliz":
+            case "feliz":
 
                 efectoVisual = "una luz radiante";
+                multiplicadorPoder =1.5f ;
+                break;
 
-              break;
-
-            case "Triste":
+            case "triste":
 
                 efectoVisual = "niebla azulada";
-
+                multiplicadorPoder = 0.5f;
                 break;
 
-            case "Enojado":
+            case "enojado":
 
                 efectoVisual = "nubes negras";
-
+                multiplicadorPoder = 3f;
                 break;
 
 
-            case "Neutral":
+            case "neutral":
 
                 efectoVisual = "que no hay ningun cambio";
-
+                multiplicadorPoder = 1f;
                 break;
 
         }
 
-        print("El climabicho esta " + emocion + "(ves " + efectoVisual + ")");
-
-       // Debug.Log("Emocion: " + emocion);
-      // Debug.Log("Efecto visual: " + efectoVisual);
-
+       
+        print("El climabicho esta " + emocionActual + " (ves " + efectoVisual + ") " + "Poder actual: x" + multiplicadorPoder);
+       return emocionActual;
+      
 
 
     }
